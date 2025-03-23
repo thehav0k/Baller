@@ -1,0 +1,19 @@
+[
+    {"name": "Lionel Messi", "clubs": ["Barcelona", "Paris Saint-Germain", "Inter Miami"], "national_teams": ["Argentina"]},
+    {"name": "Cristiano Ronaldo", "clubs": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al Nassr"], "national_teams": ["Portugal"]},
+    {"name": "Pele", "clubs": ["Santos", "New York Cosmos"], "national_teams": ["Brazil"]},
+    {"name": "Diego Maradona", "clubs": ["Boca Juniors", "Barcelona", "Napoli"], "national_teams": ["Argentina"]},
+    {"name": "Lamine Yamal", "clubs": ["FC Metz", "Olympique de Marseille", "Paris Saint-Germain"], "national_teams": ["France"]},
+    {"name": "Zinedine Zidane", "clubs": ["AS Cannes", "Girondins de Bordeaux", "Juventus", "Real Madrid"], "national_teams": ["France"]},
+    {"name": "Kylian Mbappe", "clubs": ["AS Monaco", "Paris Saint-Germain"], "national_teams": ["France"]},
+    {"name": "Neymar Jr", "clubs": ["Santos", "Barcelona", "Paris Saint-Germain"], "national_teams": ["Brazil"]},
+    {"name": "Ronaldinho", "clubs": ["Gremio", "Paris Saint-Germain", "Barcelona", "Milan", "Flamengo", "Atletico Mineiro", "Queretaro", "Fluminense"], "national_teams": ["Brazil"]},
+    {"name": "Ronaldo", "clubs": ["Cruzeiro", "PSV", "Barcelona", "Inter Milan", "Real Madrid", "AC Milan", "Corinthians"], "national_teams": ["Brazil"]},
+    {"name": "Romario", "clubs": ["Vasco da Gama", "PSV", "Barcelona", "Flamengo", "Valencia", "Fluminense", "Miami FC", "Adelaide United", "America"], "national_teams": ["Brazil"]},
+    {"name": "Rivaldo", "clubs": ["Santa Cruz", "Mogi Mirim", "Corinthians", "Palmeiras", "Deportivo La Coruna", "Barcelona", "Milan", "Cruzeiro", "Olympiakos", "AEK Athens", "Bunyodkor", "Sao Paulo", "Kabuscorp", "Mogi Mirim"], "national_teams": ["Brazil"]},
+    {"name": "Roberto Carlos", "clubs": ["Uniao Sao Joao", "Atletico Mineiro", "Palmeiras", "Inter Milan", "Real Madrid", "Fenerbahce", "Corinthians", "Anzhi Makhachkala", "Delhi Dynamos"], "national_teams": ["Brazil"]},
+    {"name": "Cafu", "clubs": ["Sao Paulo", "Zaragoza", "Palmeiras", "Roma", "Milan"], "national_teams": ["Brazil"]},
+    {"name": "Kaka", "clubs": ["Sao Paulo", "Milan", "Real Madrid", "Orlando City"], "national_teams": ["Brazil"]},
+    {"name": "Rivaldo", "clubs": ["Santa Cruz", "Mogi Mirim", "Corinthians", "Palmeiras", "Deportivo La Coruna", "Barcelona", "Milan", "Cruzeiro", "Olympiakos", "AEK Athens", "Bunyodkor", "Sao Paulo", "Kabuscorp", "Mogi Mirim"], "national_teams": ["Brazil"]},
+    {"name": "Roberto Carlos", "clubs": ["Uniao Sao Joao", "Atletico Mineiro", "Palmeiras", "Inter Milan", "Real Madrid", "Fenerbahce", "Corinthians", "Anzhi Makhachkala", "Delhi Dynamos"], "national_teams": ["Brazil"]}
+]
