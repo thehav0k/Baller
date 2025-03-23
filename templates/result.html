@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Over</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Game Over!</h1>
+    <p>Final Score: {{ score }}</p>
+    <p>Result: {{ result }}</p>
+    {% if record_message %}
+        <p>{{ record_message }}</p>
+    {% endif %}
+    <a href="/">Play Again</a>
+</body>
+</html>
